@@ -1,10 +1,9 @@
-# Hi 👋, I'm Anuvarshini
-
-🎓 MCA Student
-
-💻 MERN Stack Developer
-
-🤖 GenAI Enthusiasist
+<h1 align="center">Hi 👋, I'm Anuvarshini</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Stack+Developer;GenAI+Enthusiast;Learning+DSA+and+Cloud" />
+  </a>
+</p>
 
 ## 🚀 Tech Stack
 
@@ -16,12 +15,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Anuvarshini2212&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuvarshini2212&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuvarshini2212&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuvarshini2212&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anuvarshini2212&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
