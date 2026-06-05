@@ -13,7 +13,7 @@
 ```js
 const me = {
   role: "Full-Stack Developer",
-  passion: ["GenAI", "LLMs", "Building Cool Stuff"],
+  passion: ["MERN Stack", "GenAI", "Building Cool Stuff"],
   currently: "exploring AI-powered apps 🤖",
   openTo: "collabs & opportunities",
   funFact: true // I talk to LLMs more than people 😄
@@ -32,43 +32,6 @@ const me = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🤖 GenAI Interests
-
-> ✨ I'm passionate about the Generative AI space — from prompting LLMs to building RAG pipelines and AI agents.
-
-| Area | What I Explore |
-|------|----------------|
-| 💬 LLMs & Prompting | Prompt engineering, system design, chain-of-thought |
-| 🗄️ RAG Pipelines | Vector DBs, semantic search, document Q&A |
-| 🤖 AI Agents | Tool-calling, autonomous workflows, multi-agent systems |
-| 🎨 Image Generation | Diffusion models, text-to-image exploration |
-| 🔌 AI-Powered APIs | Integrating LLM APIs into full-stack apps |
-| 🎛️ Fine-tuning | Experimenting with model adaptation techniques |
-
-**Tools & Platforms I Use:**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuvarshini2212&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuvarshini2212&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anuvarshini2212&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
