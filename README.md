@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anuvarshini V 👋
 
-<!--
-**Anuvarshini2212/Anuvarshini2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Solving DSA Problems
+
+🤖 GenAI Enthusiasist
+
+## Skills
+- Python
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## Current Goals
+- Master DSA
+- Build MERN Projects
+- Prepare for Placements
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/anuvarshini-v-73a37b3a2
