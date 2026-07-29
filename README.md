@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Anuvarshini</h1>
-<h3 align="center">Full-Stack Developer · ✨ GenAI Enthusiast · Building things that matter 🚀</h3>
+<h3 align="center">AI Powered Full-Stack Developer · ✨ GenAI Enthusiast · Building things that matter 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Full-Stack+Developer;GenAI+Enthusiast+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Node.js" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 ```js
 const me = {
   role: "Full-Stack Developer",
-  passion: ["MERN Stack", "GenAI", "Building Cool Stuff"],
+  passion: ["MERN Full Stack", "GenAI", "Building Cool Stuff"],
   currently: "exploring AI-powered apps 🤖",
   openTo: "collabs & opportunities",
   funFact: true // I talk to LLMs more than people 😄
