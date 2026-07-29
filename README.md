@@ -3,7 +3,7 @@
 <h3 align="center">AI Powered Full-Stack Developer · ✨ GenAI Enthusiast · Building things that matter 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Full-Stack+Developer;GenAI+Enthusiast+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=AI+Powered+Full-Stack+Developer;GenAI+Enthusiast+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 ---
